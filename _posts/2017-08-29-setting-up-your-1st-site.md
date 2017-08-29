@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-29T12:14:27.871Z'
-datePublished: '2017-08-29T12:14:28.382Z'
+dateModified: '2017-08-29T12:14:36.987Z'
+datePublished: '2017-08-29T12:14:37.133Z'
 title: setting up your 1st site..
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-29-setting-up-your-1st-site.md
 starred: false
 datePublishedOriginal: '2017-08-29T12:14:28.382Z'
-sourcePath: _posts/2017-08-29-setting-up-your-1st-site.md
 url: setting-up-your-1st-site/index.html
 _type: Article
 

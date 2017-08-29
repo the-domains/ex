@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: creating a site is as easy as abc.. and then we can go further… to xyz..
-dateModified: '2017-08-29T10:08:44.811Z'
-datePublished: '2017-08-29T10:08:45.272Z'
+dateModified: '2017-08-29T10:14:41.502Z'
+datePublished: '2017-08-29T10:14:41.784Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-08-29T10:08:45.272Z'
 sourcePath: >-
   _posts/2017-08-29-creating-a-site-is-as-easy-as-abc-and-then-we-can-go-furth.md
+starred: false
+datePublishedOriginal: '2017-08-29T10:08:45.272Z'
 _type: Blurb
 
 ---

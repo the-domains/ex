@@ -14,7 +14,7 @@ github: true
 layout_spectrum: 0.03631039887712807
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5fc339-7084-41b4-9195-f4f227e78f2a.png
-name: abc to xyz..
+name: abc.. to xyz
 url: 'http://abc-xyz.us'
 colors:
   brandColors:
@@ -33,6 +33,9 @@ navigation:
   - name: add a store
     url: 'http://store.abc-xyz.us'
     type: external
+  - name: more..
+    id: 108e8747-58b3-425b-ae60-70443634ce6a
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d2909f-e808-443e-a2ce-86db1fd74fa9.png
 title: from abc.. to xyz

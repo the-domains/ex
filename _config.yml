@@ -5,7 +5,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: ex
+name: abc to xyz..
 layout_spectrum: 0.18231980316340923
 typography_spectrum: 0.330133275128901
 color:
@@ -44,7 +44,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-url: 'https://thegrid.ai/example'
+url: 'http://abc-xyz.us'
 title: creating a site
 description: from abc.. to xyz..
 github: true

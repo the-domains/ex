@@ -30,6 +30,9 @@ navigation:
   - name: adding video
     url: 'http://video.abc-xyz.us'
     type: external
+  - name: add a store
+    url: 'http://store.abc-xyz.us'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d2909f-e808-443e-a2ce-86db1fd74fa9.png
 title: creating a site

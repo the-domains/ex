@@ -4,8 +4,8 @@ description: >-
   * ..in the video section on this site, you can see how we embedded the video
   full width on both this home page, and also on it’s own page. It also means
   that the video will be available on the mobile version of your site..
-dateModified: '2017-08-29T12:55:16.343Z'
-datePublished: '2017-08-29T12:55:16.453Z'
+dateModified: '2017-08-29T12:55:20.908Z'
+datePublished: '2017-08-29T12:55:21.106Z'
 title: setting up your 1st site..
 author: []
 publisher: {}

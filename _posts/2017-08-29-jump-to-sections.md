@@ -1,8 +1,8 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-08-29T11:56:04.795Z'
-datePublished: '2017-08-29T11:56:04.919Z'
+dateModified: '2017-08-29T11:56:37.207Z'
+datePublished: '2017-08-29T11:56:37.346Z'
 title: jump to sections..
 author: []
 publisher: {}
@@ -12,7 +12,7 @@ hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-29T11:43:24.679Z'
 url: jump-to-sections/index.html
-_type: Article
+_type: Blurb
 
 ---
 # jump to sections..

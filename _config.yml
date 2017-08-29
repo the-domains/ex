@@ -1,4 +1,3 @@
-layout_spectrum: 0.03631039887712807
 typography_spectrum: 0.18029237413695912
 color:
   brandStrength: 0.48076718655839046
@@ -11,6 +10,12 @@ color:
     - '#FDFDF9'
     - '#F0ECE8'
     - '#FFFFFF'
+github: true
+layout_spectrum: 0.03631039887712807
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5fc339-7084-41b4-9195-f4f227e78f2a.png
+name: abc to xyz..
+url: 'http://abc-xyz.us'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -18,7 +23,13 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: abc to xyz..
+navigation:
+  - name: forms
+    url: 'http://forms.abc-xyz.us'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d2909f-e808-443e-a2ce-86db1fd74fa9.png
+title: creating a site
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -28,27 +39,20 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/7edd258b-b4f7-4a2a-882b-13f4dd2a4b65.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-url: 'http://abc-xyz.us'
-title: creating a site
 description: from abc.. to xyz..
-github: true
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d2909f-e808-443e-a2ce-86db1fd74fa9.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5fc339-7084-41b4-9195-f4f227e78f2a.png

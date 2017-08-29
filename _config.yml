@@ -1,9 +1,10 @@
-typography_spectrum: 0.18029237413695912
+layout_spectrum: 0.4179058062488047
+typography_spectrum: 0.1800834407787401
 color:
-  brandStrength: 0.48076718655839046
-  lightness: 0.9577909018042138
-  saturation: 0.07283206893490757
-  rhythmicContrast: 0.34488601718328454
+  brandStrength: 0.2689613642649596
+  lightness: 0.9595441512334723
+  saturation: 0.07725931732334418
+  rhythmicContrast: 0.3486518839476538
   brandColors:
     - '#F4F2ED'
     - '#FBF9F1'
@@ -11,7 +12,6 @@ color:
     - '#F0ECE8'
     - '#FFFFFF'
 github: true
-layout_spectrum: 0.03631039887712807
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5fc339-7084-41b4-9195-f4f227e78f2a.png
 name: abc.. to xyz

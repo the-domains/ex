@@ -4,15 +4,22 @@
         <description><![CDATA[abc.. to xyz]]></description>
         <link>http://abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Aug 2017 12:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Aug 2017 12:41:31 GMT</lastBuildDate>
         <atom:link href="http://abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Aug 2017 12:39:52 GMT</pubDate>
+        <pubDate>Tue, 29 Aug 2017 12:41:29 GMT</pubDate>
         <item>
             <title><![CDATA[abc.. to xyz]]></title>
             <description><![CDATA[<h1>abc.. to xyz</h1>,<p>Creating your grid site may seem daunting at first, but believe us.. it’s not!</p>,<p>On this site, we’re collating all the information that we have learnt from creating many grid sites.. below is a simple video showing the very first stages of creating a site, but from there we can look at other aspects.</p>,<p>Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up.. keep checking back for more articles and tips.. thanx!</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c48fbd-5230-4e28-b782-904d4c91d557.jpg">]]></description>
             <link>http://abc-xyz.us/abc-to-xyz/index.html</link>
             <guid isPermaLink="false">91080250-bd90-4c7c-b071-e7bee2973798</guid>
             <pubDate>Tue, 29 Aug 2017 10:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<blockquote>&quot;Tell me and I forget. Teach me and I remember. Involve me and I learn..&quot; ~ Benjamin Franklin</blockquote>]]></description>
+            <link>http://abc-xyz.us/tell-me-and-i-forget-teach-me-and-i-remember-involve-me-a/index.html</link>
+            <guid isPermaLink="false">3ca0cf13-6ee3-49b1-8297-1e097b05f1c5</guid>
+            <pubDate>Tue, 29 Aug 2017 10:14:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[setting up your 1st site..]]></title>

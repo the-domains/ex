@@ -24,7 +24,7 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: forms
+  - name: adding forms
     url: 'http://forms.abc-xyz.us'
     type: external
   - name: adding video

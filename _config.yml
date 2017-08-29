@@ -1,0 +1,54 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: ex
+layout_spectrum: 0.18231980316340923
+typography_spectrum: 0.330133275128901
+color:
+  brandStrength: 0.18409792357124388
+  lightness: 0.3649638146162033
+  saturation: 0.27434115088544786
+  rhythmicContrast: 0.4103830528911203
+  brandColors:
+    - '#F4F2ED'
+    - '#FBF9F1'
+    - '#FDFDF9'
+    - '#F0ECE8'
+    - '#FFFFFF'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7edd258b-b4f7-4a2a-882b-13f4dd2a4b65.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/7edd258b-b4f7-4a2a-882b-13f4dd2a4b65.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'https://thegrid.ai/example'
+title: creating a site
+description: from abc.. to xyz..
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/14d2909f-e808-443e-a2ce-86db1fd74fa9.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/df5fc339-7084-41b4-9195-f4f227e78f2a.png

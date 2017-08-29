@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Creating your grid site may seem daunting at first, but believe us.. it’s
   not! 
-dateModified: '2017-08-29T12:11:05.023Z'
-datePublished: '2017-08-29T12:11:05.166Z'
+dateModified: '2017-08-29T12:11:09.650Z'
+datePublished: '2017-08-29T12:11:09.805Z'
 title: abc.. to xyz
 author: []
 publisher: {}

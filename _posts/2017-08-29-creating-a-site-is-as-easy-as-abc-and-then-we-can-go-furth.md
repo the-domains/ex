@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Creating your grid site may seem daunting at first, but believe us.. it’s not!'
-dateModified: '2017-08-29T13:03:13.224Z'
-datePublished: '2017-08-29T13:03:13.356Z'
+dateModified: '2017-08-29T13:03:21.078Z'
+datePublished: '2017-08-29T13:03:21.270Z'
 title: abc.. to xyz
 author: []
 publisher: {}

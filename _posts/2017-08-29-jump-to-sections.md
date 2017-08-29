@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-29T11:43:24.147Z'
-datePublished: '2017-08-29T11:43:24.679Z'
+dateModified: '2017-08-29T11:43:38.870Z'
+datePublished: '2017-08-29T11:43:39.032Z'
 title: jump to sections..
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-08-29-jump-to-sections.md
 starred: false
 datePublishedOriginal: '2017-08-29T11:43:24.679Z'
-sourcePath: _posts/2017-08-29-jump-to-sections.md
 _type: Blurb
 
 ---

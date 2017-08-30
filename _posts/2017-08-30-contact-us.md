@@ -1,15 +1,17 @@
 ---
-inFeed: true
+inFeed: false
 description: ''
-dateModified: '2017-08-30T10:03:18.922Z'
-datePublished: '2017-08-30T10:03:19.084Z'
+dateModified: '2017-08-30T10:04:15.819Z'
+datePublished: '2017-08-30T10:04:16.794Z'
 title: Contact us..
 author: []
 publisher: {}
 via: {}
 sourcePath: _posts/2017-08-30-contact-us.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-08-30T10:01:53.356Z'
+url: contact-us/index.html
 _type: Blurb
 
 ---

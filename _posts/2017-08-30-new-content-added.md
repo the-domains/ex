@@ -4,8 +4,8 @@ description: >-
   We have sub sites now to demonstrate various elements that can be useful on
   your grid site. From the menu top left, you can see we have now added ideas
   for forms, a store, and how to best add videos to your grid site.
-dateModified: '2017-08-30T18:07:58.657Z'
-datePublished: '2017-08-30T18:07:58.841Z'
+dateModified: '2017-08-30T19:07:17.970Z'
+datePublished: '2017-08-30T19:07:18.283Z'
 title: new content added
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Article
 We have sub sites now to demonstrate various elements that can be useful on your grid site. From the menu top left, you can see we have now added ideas for forms, a store, and how to best add videos to your grid site.
 
 But with any site, the best idea is to build up your site with content, and on the grid one of the under used methods we believe is the idea of sharing urls. It's one of the options when you add more content.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/17be7f16-dbb5-4e3d-a1a8-4d83b268861d.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dcdcf77-034c-495c-b87b-745cf6a1f310.png)
 
 Simply paste the link to a site or an article where it says and press enter. Done. Molly will then visit the site and create an article. Over time she'll have created a whole site for you.
 

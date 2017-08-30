@@ -5,8 +5,8 @@ description: >-
   full width on both the home page, and also on it’s own page. It also means
   that the video will be available on the mobile version of your site with no
   issues…
-dateModified: '2017-08-30T19:08:20.246Z'
-datePublished: '2017-08-30T19:08:20.575Z'
+dateModified: '2017-08-30T19:08:25.160Z'
+datePublished: '2017-08-30T19:08:25.325Z'
 title: setting up your 1st site..
 author: []
 publisher: {}

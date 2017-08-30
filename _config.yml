@@ -65,3 +65,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: creating your site on thegrid.io
+purpose:
+  - type: internal
+    label: contact us
+    item: 419e3737-aa21-4d90-b247-3b9ef3f700a7

@@ -4,22 +4,22 @@
         <description><![CDATA[abc.. to xyz]]></description>
         <link>http://abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Aug 2017 13:04:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2017 10:47:56 GMT</lastBuildDate>
         <atom:link href="http://abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 29 Aug 2017 13:04:12 GMT</pubDate>
+        <pubDate>Wed, 30 Aug 2017 10:47:17 GMT</pubDate>
+        <item>
+            <title><![CDATA[setting up your 1st site..]]></title>
+            <description><![CDATA[<h1>setting up your 1st site..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFLxDAQhe_5FSHg0aYK66G2PQqCRz14TJrpNmzSKcm0YZX974a2rLDi3OZj5s17U0c6O2hZ0eFIyo4Q-DfjuSaMliyOFQ_gFNkFnleerKGh4g9lebeBAexxoIqXWzspY-x4vNdIhL7ih6fi8ZBHL6xYrAH8I690RDfTLk84XaUc9L-6_97dyIXVco9SG7vwzqkYG3FNJTK3fVAeeAxdIwaiKVZSppSKM840a8gv8BK8BiMn9Wne9PvLh3oVfN3SGAyERpSCJ9AnS8o5TP3sXOwCwMg9ft2i2373tL5BtLXc_GRjMjtuGfsBIkF-JQ" height="450"></iframe>,<p>* ..in the <a href="https://video.abc-xyz.us/" title="">video section</a> on this site, you can see how we embedded this video full width on both the home page, and also on it’s own page. It also means that the video will be available on the mobile version of your site with no issues…</p>]]></description>
+            <link>http://abc-xyz.us/setting-up-your-1st-site/index.html</link>
+            <guid isPermaLink="false">a12216a4-f5ae-4f5f-b411-1a986a727599</guid>
+            <pubDate>Tue, 29 Aug 2017 12:14:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[abc.. to xyz]]></title>
             <description><![CDATA[<h1>abc.. to xyz</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a663b247-bb32-4571-ab51-d72838727b38.jpg">,<p>Creating your grid site may seem daunting at first, but believe us.. it’s not!</p>,<p>On this site, we’re collating all the information that we have learnt from creating many grid sites.. below is a simple video showing the very first stages of creating a site, but from there we can look at other aspects.</p>,<p>Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up.. keep checking back for more articles and tips.. thanx!</p>]]></description>
             <link>http://abc-xyz.us/abc-to-xyz/index.html</link>
             <guid isPermaLink="false">91080250-bd90-4c7c-b071-e7bee2973798</guid>
             <pubDate>Tue, 29 Aug 2017 10:08:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[setting up your 1st site..]]></title>
-            <description><![CDATA[<h1>setting up your 1st site..</h1>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx1kEFLxDAQhe_5FSHg0aYK66G2PQqCRz14TJrpNmzSKcm0YZX974a2rLDi3OZj5s17U0c6O2hZ0eFIyo4Q-DfjuSaMliyOFQ_gFNkFnleerKGh4g9lebeBAexxoIqXWzspY-x4vNdIhL7ih6fi8ZBHL6xYrAH8I690RDfTLk84XaUc9L-6_97dyIXVco9SG7vwzqkYG3FNJTK3fVAeeAxdIwaiKVZSppSKM840a8gv8BK8BiMn9Wne9PvLh3oVfN3SGAyERpSCJ9AnS8o5TP3sXOwCwMg9ft2i2373tL5BtLXc_GRjMjtuGfsBIkF-JQ" height="450"></iframe>,<p>* ..in the video section on this site, you can see how we embedded this video full width on both the home page, and also on it’s own page. It also means that the video will be available on the mobile version of your site with no issues…</p>]]></description>
-            <link>http://abc-xyz.us/setting-up-your-1st-site/index.html</link>
-            <guid isPermaLink="false">a12216a4-f5ae-4f5f-b411-1a986a727599</guid>
-            <pubDate>Tue, 29 Aug 2017 12:14:28 GMT</pubDate>
         </item>
     </channel>
 </rss>

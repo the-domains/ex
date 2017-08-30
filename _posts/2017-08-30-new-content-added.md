@@ -4,8 +4,8 @@ description: >-
   We have sub sites now to demonstrate various elements that can be useful on
   your grid site. From the menu top left, you can see we have now added ideas
   for forms, a store, and how to best add videos to your grid site.
-dateModified: '2017-08-30T21:57:54.194Z'
-datePublished: '2017-08-30T21:57:54.387Z'
+dateModified: '2017-08-30T21:57:57.497Z'
+datePublished: '2017-08-30T21:57:58.148Z'
 title: new content added
 author: []
 publisher: {}

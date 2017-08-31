@@ -4,9 +4,9 @@
         <description><![CDATA[abc.. to xyz]]></description>
         <link>http://abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Aug 2017 16:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2017 20:29:49 GMT</lastBuildDate>
         <atom:link href="http://abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 31 Aug 2017 16:10:52 GMT</pubDate>
+        <pubDate>Thu, 31 Aug 2017 20:29:48 GMT</pubDate>
         <item>
             <title><![CDATA[abc.. to xyz]]></title>
             <description><![CDATA[<h1>abc.. to xyz</h1>,<p>Creating your grid site may seem daunting at first, but believe us.. it’s not!</p>,<p>On this site, we’re collating all the information that we have learnt from creating many, many grid sites.. below you’ll find a simple video showing the very first stages of creating a site, but from there we can look at all other aspects.</p>,<p>Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up..</p>,<p>..keep checking back for more articles and tips.. thanks!</p>,<p>*btw.. we’ll show you how to add the facebook comments box on our <a href="https://social.abc-xyz.us/" title="">social media</a> section.. slight change to the code facebook gives you, and we can have it working perfectly.. even on your visitors mobile phone..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkTFPwzAQhff8CisImkiNnSKxkKRDJIRYOrEhhBz73Dpt7Mi-hBbEf8dpU6mb796nd3fPpdQj0bKKVZM5azFelyy01lHphdM9rhM1GIHamkQuiV8GNiW_ESEjd6QNtWo9qYikW8CXA3Rg0Nend77d8A4Sn37kn0WgtSLJLVOf3mQSrFLiAAdnJmY2Eg44wswFhyIIVMugaXnBqHcilDFjwhoDAqniAhpr99QAMjBfrzXzck9bf3dUTXeoVg8jOB-OqMZHusrjyScsTnvuwpCNlUC18eCwBmUdJPNhaRH9JdKKYVplSRaXSBbhdR2YtT4MWqRpUbI5sKicIhUH7v05VWG7cyoxkRx5tnOgqniH2PtnxngjsuPphw5X-VtL3FXxKs_v544Zut56DGZP18_5B6ehj2U" height="500"></iframe>]]></description>
@@ -27,6 +27,23 @@
             <link>http://abc-xyz.us/new-content-added/index.html</link>
             <guid isPermaLink="false">09fc7036-364a-4f46-b583-d98fbb4267de</guid>
             <pubDate>Wed, 30 Aug 2017 17:54:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[typography..]]></title>
+            <description><![CDATA[<h1>typography..</h1>,<p>Normally we let Molly choose the font for our sites, and leave it at that.. you can redesign a few times if you don’t like her choice, and she’ll come back with alternatives..</p>,<p>But what if you want a specific font say.. just for headings to articles ? ..trying to think of a reason, but what if you’re a wedding business and want a more flamboyant heading..</p>,<p>Well we can do this.. we can do this through CSS and using an embedded html window.</p>,<p>For cross browser support, we’ve tried various methods, but the only way we have found that is consistent is by using fonts from <a href="https://fonts.google.com/" title="">Google</a>.</p>,<p>We would probably only use this for article headings, but here is an example, using an embedded window.. set the size to 100.. the same code can be used for any Google font.. note as we are using CSS on the grid site, the code needs to be within &lt;style&gt;… &lt;/style&gt; tags..</p>,<p>Here is our code :</p>,<pre><code>&lt;style&gt;
+
+@import url(&apos;https://fonts.googleapis.com/css?family=Italianno&apos;);
+
+.fancy4 {
+font-family: &apos;Italianno&apos;, cursive;
+font-size: 80px;
+}
+&lt;/style&gt;
+
+&lt;div class=&quot;fancy4&quot;&gt;The Wedding of Jon &amp; Daenerys&lt;/div&gt;</code></pre>,<p>and the result.. would make a great wedding header to an article.. just never gonna happen when he finds out she is his Aunt… 😳</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxFzrEKwjAUheE9T3HpYBW0cXCQNq0OLjoLziFN2kCahNy0GMV3Vyni_v2HwzAmIxtCjnrwLkQYg1nmfYweS0qVsxGLzrnOSO41FsINVCAeFB-0SfU5cqO5tS5fVYQUiluRdvAk324zmxLyv1qDGAPqSVYzQf2QJey3_l6RF2H0d4a1egJhOGKdzaNZc-0l3GTbatuBU3BxFhZw4tLKkJDRT9G8AYx0Rao" height="100"></iframe>]]></description>
+            <link>http://abc-xyz.us/typography/index.html</link>
+            <guid isPermaLink="false">3233212a-69d9-49ae-bc93-8fbd58ac85f1</guid>
+            <pubDate>Thu, 31 Aug 2017 20:29:48 GMT</pubDate>
         </item>
     </channel>
 </rss>

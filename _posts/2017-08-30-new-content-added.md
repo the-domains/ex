@@ -4,8 +4,8 @@ description: >-
   We have sub sites now to demonstrate various elements that can be useful on
   your grid site. From the menu top left, you can see we have now added ideas
   for forms, a store, and how to best add videos to your grid site.
-dateModified: '2017-08-31T09:26:20.496Z'
-datePublished: '2017-08-31T09:26:20.670Z'
+dateModified: '2017-08-31T12:49:18.818Z'
+datePublished: '2017-08-31T12:49:18.939Z'
 title: new content added
 author: []
 publisher: {}
@@ -33,6 +33,6 @@ A good example of this is on the resources page of [d-zign.us][0]. All created b
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkcFOwzAMhu99iqgI1kpr0iFxoe0OlRDishM3hFCaOFu6NamStNtAvDvu1kncYvvLb_t3KfVItKxi1WTO2hCvS4apdVR64XQf1okajAjamkQuiV8im5KfiJCRO9JirFpPKiLpFsLLATowwdfnd77d8A4Sn37knwXSWpHkP1Of32SCUilxEAZnJmYWEg54gJlDhQILVEusaXnFqHcCw5gxYY0BEajiAhpr99RAYGC-Xmvm5Z62_u6kmu5QrR5GcB6XqMZHusrjSQcHpz132GRjJVBtPLhQg7IOknmxtIh-E2nFMI2yJIurJQt83RpmrcdGizQtSjYbFpWTpeLAvb-4Kmx3cSUmkgee7RyoKt6F0PtnxngjstP5mw6eGTgiawKyGZcS5PzhqGXYVfEqz-_njBm63vqA8k-3c_0BLt6WJQ" height="500" style=""></iframe>
 
-v1
+
 
 [0]: https://cool.d-zign.us/

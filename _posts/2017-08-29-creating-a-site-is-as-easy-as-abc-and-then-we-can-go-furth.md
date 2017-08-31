@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Creating your grid site may seem daunting at first, but believe us.. it’s not!'
-dateModified: '2017-08-31T09:16:24.447Z'
-datePublished: '2017-08-31T09:16:24.599Z'
+dateModified: '2017-08-31T09:31:38.579Z'
+datePublished: '2017-08-31T09:31:38.843Z'
 title: abc.. to xyz
 author: []
 publisher: {}
@@ -17,12 +17,13 @@ _type: Article
 
 ---
 # abc.. to xyz
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a663b247-bb32-4571-ab51-d72838727b38.jpg)
 
 Creating your grid site may seem daunting at first, but believe us.. it's not!
 
-On this site, we're collating all the information that we have learnt from creating many grid sites.. below is a simple video showing the very first stages of creating a site, but from there we can look at other aspects.
+On this site, we're collating all the information that we have learnt from creating many, many grid sites.. below you'll find a simple video showing the very first stages of creating a site, but from there we can look at all other aspects.
 
-Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up.. keep checking back for more articles and tips.. thanx!
+Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up.. 
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkUFrwzAMhe_5FSaDNYHGTgeDsSQ9BMbYpafdxhiOLbdOGzvYStZu7L_PaVPozdL7eJKeS6lHomUVqyZz1mK8LlloraPSC6d7XCdqMAK1NYlcEr8MbEp-I0JG7kgbatV6UhFJt4AvB-jAoK9P73y74R0kPv3IP4tAa0WSW6Y-vckkWKXEAQ7OTMxsJBxwhJkLDkUQqJZB0_KCUe9EKGPGhDUGBFLFBTTW7qkBZGC-Xmvm5Z62_u6omu5Qre5HcD4cUY0PdJXHk09YnPbchSEbK4Fq48FhDco6SObD0iL6S6QVw7TKkiwukSzC6zowa30YtEjTomRzYFE5RSoO3PtzqsJ251RiIjnybOdAVfEOsffPjPFGZMfTDx2u8reWuKvipzyfG2boeusxeD1e_-YfHbePRw" height="500" style=""></iframe>
+..keep checking back for more articles and tips.. thanks!
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkTFPwzAQhff8CisImkiNnSKxkKRDJIRYOrEhhBz73Dpt7Mi-hBbEf8dpU6mb796nd3fPpdQj0bKKVZM5azFelyy01lHphdM9rhM1GIHamkQuiV8GNiW_ESEjd6QNtWo9qYikW8CXA3Rg0Nend77d8A4Sn37kn0WgtSLJLVOf3mQSrFLiAAdnJmY2Eg44wswFhyIIVMugaXnBqHcilDFjwhoDAqniAhpr99QAMjBfrzXzck9bf3dUTXeoVg8jOB-OqMZHusrjyScsTnvuwpCNlUC18eCwBmUdJPNhaRH9JdKKYVplSRaXSBbhdR2YtT4MWqRpUbI5sKicIhUH7v05VWG7cyoxkRx5tnOgqniH2PtnxngjsuPphw5X-VtL3FXxKs_v544Zut56DGZP18_5B6ehj2U" height="500" style=""></iframe>

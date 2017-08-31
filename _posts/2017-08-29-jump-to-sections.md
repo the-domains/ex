@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-08-30T22:07:32.098Z'
-datePublished: '2017-08-30T22:07:32.318Z'
+dateModified: '2017-08-31T15:17:48.109Z'
+datePublished: '2017-08-31T15:17:48.233Z'
 title: jump to sections..
 author: []
 publisher: {}
@@ -21,9 +21,11 @@ _type: Blurb
 * [add a video][1]
 * [creating a store][2]
 * [adding social elements][3]
+* [cheatin' with css (sorry.. not sorry! 🙃 )][4]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ff70c34-7e24-4e6f-864f-a067f0ed6d40.jpg)
 
 [0]: http://forms.abc-xyz.us/
 [1]: http://video.abc-xyz.us/
 [2]: http://store.abc-xyz.us/
 [3]: http://social.abc-xyz.us/
+[4]: https://css.abc-xyz.us/

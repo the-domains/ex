@@ -4,8 +4,8 @@ description: >-
   We have sub sites now to demonstrate various elements that can be useful on
   your grid site. From the menu top left, you can see we have now added ideas
   for forms, a store, and how to best add videos to your grid site.
-dateModified: '2017-08-31T09:16:58.979Z'
-datePublished: '2017-08-31T09:16:59.212Z'
+dateModified: '2017-08-31T09:23:46.281Z'
+datePublished: '2017-08-31T09:23:46.476Z'
 title: new content added
 author: []
 publisher: {}
@@ -31,7 +31,7 @@ Simply paste the link to a site or an article where it says and press enter. Don
 
 A good example of this is on the resources page of [d-zign.us][0]. All created by simply gathering links to useful sites or articles.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzScksU0jOSSwutlVKS9JNzs_NTc0rKVZSSEksSdTNKEpNs1XKKCkpKLbS109MStatqKzSK4VJl2emlGTYKlkYGEAF8kpzC_KLS4BmmSrZ2egDzbYDAGjOIK4" height="500" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkcFqwzAMhu95CpPBmkBjp4PBWJIeAmPs0tNuYwzHllunjR1sJ2039u5T2hR2s6TPv6RfpdQj0bKKVZM5a0O8Lhmm1lHphdN9WCdqMCJoaxK5JH6JbEp-IkJG7kiLsWo9qYikWwgvB-jABF-f3_l2wztIfPqRfxZIa0WS_0x9fpMJSqXEQRicmZhZSDjgAWYOFQosUC2xpuUVo94JDGPGhDUGRKCKC2is3VMDgYH5eq2Zl3va-ruTarpDtbofwXlcohof6CqPJx0cnPbcYZONlUC18eBCDco6SObF0iL6TaQVwzTKkiyulizwdWuYtR4bLdK0KNlsWFROlooD9_7iqrDdxZWYSB54tnOgqngXQu-fGeONyE7nbzp4ZuCIrAnIZlxKkPOHo5ZhV8VPeT4nzND11gdUf7xd6w-eJZYH" height="500" style=""></iframe>
 
 
 

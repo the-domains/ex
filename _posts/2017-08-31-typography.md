@@ -4,16 +4,16 @@ description: >-
   Normally we let Molly choose the font for our sites, and leave it at that..
   you can redesign a few times if you don’t like her choice, and she’ll come
   back with alternatives..
-dateModified: '2017-08-31T20:29:47.407Z'
-datePublished: '2017-08-31T20:29:48.001Z'
+dateModified: '2017-08-31T20:30:02.690Z'
+datePublished: '2017-08-31T20:30:02.956Z'
 title: typography..
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-08-31-typography.md
 starred: false
 datePublishedOriginal: '2017-08-31T20:29:48.001Z'
-sourcePath: _posts/2017-08-31-typography.md
 url: typography/index.html
 _type: Article
 

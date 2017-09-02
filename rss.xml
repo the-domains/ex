@@ -4,15 +4,22 @@
         <description><![CDATA[abc.. to xyz]]></description>
         <link>http://abc-xyz.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Sep 2017 19:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2017 21:19:00 GMT</lastBuildDate>
         <atom:link href="http://abc-xyz.us/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 02 Sep 2017 19:25:33 GMT</pubDate>
+        <pubDate>Sat, 02 Sep 2017 21:18:56 GMT</pubDate>
         <item>
             <title><![CDATA[abc.. to xyz]]></title>
             <description><![CDATA[<h1>abc.. to xyz</h1>,<p>Creating your grid site may seem daunting at first, but believe us.. it’s not!</p>,<p>On this site, we’re collating all the information that we have learnt from creating many, many grid sites.. below you’ll find a simple video showing the very first stages of creating a site, but from there we can look at all other aspects.</p>,<p>Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up..</p>,<p>..keep checking back for more articles and tips.. thanks!</p>,<p>*btw.. we’ll show you how to add the facebook comments box on our <a href="https://social.abc-xyz.us/" title="">social media</a> section.. slight change to the code facebook gives you, and we can have it working perfectly.. even on your visitors mobile phone..</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkTFPwzAQhff8CisImkiNnSKxkKRDJIRYOrEhhBz73Dpt7Mi-hBbEf8dpU6mb796nd3fPpdQj0bKKVZM5azFelyy01lHphdM9rhM1GIHamkQuiV8GNiW_ESEjd6QNtWo9qYikW8CXA3Rg0Nend77d8A4Sn37kn0WgtSLJLVOf3mQSrFLiAAdnJmY2Eg44wswFhyIIVMugaXnBqHcilDFjwhoDAqniAhpr99QAMjBfrzXzck9bf3dUTXeoVg8jOB-OqMZHusrjyScsTnvuwpCNlUC18eCwBmUdJPNhaRH9JdKKYVplSRaXSBbhdR2YtT4MWqRpUbI5sKicIhUH7v05VWG7cyoxkRx5tnOgqniH2PtnxngjsuPphw5X-VtL3FXxKs_v544Zut56DGZP18_5B6ehj2U" height="500"></iframe>]]></description>
             <link>http://abc-xyz.us/abc-to-xyz/index.html</link>
             <guid isPermaLink="false">91080250-bd90-4c7c-b071-e7bee2973798</guid>
             <pubDate>Tue, 29 Aug 2017 10:08:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[part deux.. wtf i don’t have an email account..]]></title>
+            <description><![CDATA[<h1>part deux.. wtf i don’t have an email account..</h1>,<p>Sooo.. umm last post we set up a custom domain name.. and then went all stitcher / nsa and added SSL to our domain.. S’rsly bad ass plan.. but wtf.. we forgot about an email account for our new site…</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fc78594-689b-40b6-98b1-088ba771485b.jpg">]]></description>
+            <link>http://abc-xyz.us/part-deux-wtf-i-dont-have-an-email-account/index.html</link>
+            <guid isPermaLink="false">99e98e0b-9dcb-4b58-95cb-35ab9dd3035b</guid>
+            <pubDate>Sat, 02 Sep 2017 21:18:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[yes to a name.. yes to ssl..]]></title>

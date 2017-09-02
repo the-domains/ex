@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   When you create your new grid site, first you give it a name.. pick a site
   color.. and then you have the option to ‘purchase’ a custom domain name..
-dateModified: '2017-09-02T15:17:07.439Z'
-datePublished: '2017-09-02T15:17:07.669Z'
+dateModified: '2017-09-02T15:20:20.214Z'
+datePublished: '2017-09-02T15:20:20.435Z'
 title: yes to a name.. yes to ssl..
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ When you create your new grid site, first you give it a name.. pick a site color
 
 For every site you have on the grid you can get a free domain for the first year through their partnership with [Uniregistry][0]. So it seems to make perfect sense to take the opportunity to grab that muchloveddomain.com right now.
 
-In fact if you don't do it now.. you do don't get the chance again. The only way would be to use another of your sites to acquire the domain.. hence using up another site..
+In fact if you don't do it now.. you won't get the chance again. The only way would be to use another of your sites to acquire the domain.. and then use it with this site.. hence using up another site..
 
 BUT.. is Uniregistry the right place to get your domain.. it's free for the first year, but check the renewal fee for the 2nd year. Depending on the type of domain - .com / .io / .us - it maybe cheaper to go elsewhere..
 
@@ -73,7 +73,7 @@ The other entries.. css / forms / gallery ..they are just subdomains.. ie https:
 On your grid site, go to Site Settings, top left.. and change the url to your new domain..
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2bec20de-13db-4229-93a5-f65429d5a36c.png)
 
-For now... we're done! ..see your new website - assuming you were working on it whilst waiting for Cloudflare - at https://muchloveddomain.com 
+For now... we're done! ..see your new website - assuming you were working on it whilst waiting for Cloudflare - at https://muchloveddomain.com
 
 \*don't click the link.. it doesn't really exist.. 4️⃣0️⃣4️⃣
 

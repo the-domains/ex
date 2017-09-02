@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   When you create your new grid site, first you give it a name.. then you’re
   invited to
-dateModified: '2017-09-02T12:15:31.345Z'
-datePublished: '2017-09-02T12:15:31.552Z'
+dateModified: '2017-09-02T12:15:35.492Z'
+datePublished: '2017-09-02T12:15:35.628Z'
 title: yes to a name.. yes to ssl..
 author: []
 publisher: {}

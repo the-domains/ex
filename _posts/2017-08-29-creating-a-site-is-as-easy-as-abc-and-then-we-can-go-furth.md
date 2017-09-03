@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Creating your grid site may seem daunting at first, but believe us.. it’s not!'
-dateModified: '2017-09-02T19:25:30.430Z'
-datePublished: '2017-09-02T19:25:30.852Z'
+dateModified: '2017-09-03T09:41:57.187Z'
+datePublished: '2017-09-03T09:41:57.350Z'
 title: abc.. to xyz
 author: []
 publisher: {}
@@ -28,7 +28,7 @@ Adding forms, videos, stores.. whatever you are looking for on your site, we can
 
 \*btw.. we'll show you how to add the facebook comments box on our [social media][0] section.. slight change to the code facebook gives you, and we can have it working perfectly.. even on your visitors mobile phone..
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkTFPwzAQhff8CisImkiNnSKxkKRDJIRYOrEhhBz73Dpt7Mi-hBbEf8dpU6mb796nd3fPpdQj0bKKVZM5azFelyy01lHphdM9rhM1GIHamkQuiV8GNiW_ESEjd6QNtWo9qYikW8CXA3Rg0Nend77d8A4Sn37kn0WgtSLJLVOf3mQSrFLiAAdnJmY2Eg44wswFhyIIVMugaXnBqHcilDFjwhoDAqniAhpr99QAMjBfrzXzck9bf3dUTXeoVg8jOB-OqMZHusrjyScsTnvuwpCNlUC18eCwBmUdJPNhaRH9JdKKYVplSRaXSBbhdR2YtT4MWqRpUbI5sKicIhUH7v05VWG7cyoxkRx5tnOgqniH2PtnxngjsuPphw5X-VtL3FXxKs_v544Zut56DGZP18_5B6ehj2U" height="500" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNkTFPwzAQhff8CisImkiNnSKxkKRDJIRYOrEhhBz73Dpt7Mi-hBbEf8dpU6mb796nd3fPpdQj0bKKVZM5azFelyy01lHphdM9rhM1GIHamkQuiV8GNiW_ESEjd6QNtWo9qYikW8CXA3Rg0Nend77d8A4Sn37kn0WgtSLJLVOf3mQSrFLiAAdnJmY2Eg44wswFhyIIVMugaXnBqHcilDFjwhoDAqniAhpr99QAMjBfrzXzck9bf3dUTXeoVg8jOB-OqMZHusrjyScsTnvuwpCNlUC18eCwBmUdJPNhaRH9JdKKYVplSRaXSBbhdR2YtT4MWqRpUbI5sKicIhUH7v05VWG7cyoxkRx5tnOgqniH2PtnxngjsuPphw5X-VtL3FXxKs_v544Zut56DGZP18_5B6ehj2U" height="400" style=""></iframe>
 
 
 

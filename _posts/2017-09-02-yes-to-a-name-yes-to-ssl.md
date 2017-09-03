@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   When you create your new grid site, first you give it a name.. pick a site
   color.. and then you have the option to ‘purchase’ a custom domain name..
-dateModified: '2017-09-02T21:55:56.237Z'
-datePublished: '2017-09-02T21:55:56.374Z'
+dateModified: '2017-09-03T09:53:00.664Z'
+datePublished: '2017-09-03T09:53:00.817Z'
 title: yes to a name.. yes to ssl..
 author: []
 publisher: {}
@@ -76,6 +76,12 @@ On your grid site, go to Site Settings, top left.. and change the url to your ne
 For now... we're done! ..see your new website - assuming you were working on it whilst waiting for Cloudflare - at https://muchloveddomain.com
 
 \*don't click the link.. it doesn't really exist.. 4️⃣0️⃣4️⃣
+
+leave a comment if you have questions..
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxNUUFOwzAQvOcVVhA0kRo7ReJCkh4iIcSlJ24IIddet04TO_I6oQHxd5ySStw8u-OZ3dlS6pFoWcVqnzlrfbwtWShtoxKF073fJmowwmtrErkmuA7clHxHhIzckSZg1SCpiKQH8E8tdGA81tMrP-x4Bwmmb_l7EdhakeQ_p55eZBKkUuLAD87MnEVIOOAeFl5QKEKDahl6Wv7RKDoRYMyYsMaA8FRxAXtrT9SAZ2A-nmuG8kQbvDmrfddWm7sRHIYlqvGebvJ41gmD0567YLKzEqg2CM7XoKyDZFksLaKfRFoxzKOsyeovklV4XQ2zBoPRKk2Lki2BReUcqWg54iVVYbtLKjGR3PPs6EBV8dH7Hh8Z43uRnacvOiCbADNvM56ZkFy2IMR2-feppT9W8SbPb5eKGbreog8uD9er_QJPmJhe" height="400" style=""></iframe>
+
+
 
 [0]: https://uniregistry.com/
 [1]: https://abc-xyz.us/

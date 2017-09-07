@@ -4,8 +4,8 @@ description: >-
   You’ve got 10 sites with LT Membership, so let’s use some. One idea we like is
   combining one off events to create a site, and then using Uniregistry to get
   your ‘free’ domain to help promote it.
-dateModified: '2017-09-07T13:18:02.529Z'
-datePublished: '2017-09-07T13:18:02.673Z'
+dateModified: '2017-09-07T13:22:19.830Z'
+datePublished: '2017-09-07T13:22:19.989Z'
 title: uniregistry and events ?
 author: []
 publisher: {}
@@ -50,7 +50,7 @@ So here are the free domain extenstions that you can get :
 
 There's some pretty good one there like dot photo. If you get that one, you may want to think about renewing that domain.
 
-But for fun, we created a one off even site.. and so went with...
+But for fun, we created a one off event site.. and so went with...
 
 🎅🏻 🤶🏼 🎄 ☃️ 🎁
 

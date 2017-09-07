@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   When you create your new grid site, first you give it a name.. pick a site
   color.. and then you have the option to ‘purchase’ a custom domain name..
-dateModified: '2017-09-03T09:53:00.664Z'
-datePublished: '2017-09-03T09:53:00.817Z'
+dateModified: '2017-09-07T11:49:15.124Z'
+datePublished: '2017-09-07T11:49:15.271Z'
 title: yes to a name.. yes to ssl..
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ When you create your new grid site, first you give it a name.. pick a site color
 
 For every site you have on the grid you can get a free domain for the first year through their partnership with [Uniregistry][0]. So it seems to make perfect sense to take the opportunity to grab that muchloveddomain.com right now.
 
-In fact if you don't do it now.. you won't get the chance again. The only way would be to use another of your sites to acquire the domain.. and then use it with this site.. hence using up another site..
+If you don't want to do it now, no probs, you can always go back to site settings later and click purchase a domain. The nice part is, Uniregistry are partnered with the grid, so when you obtain your domain, their DNS settings will auto point to the grid, and set it all up for you.
 
 BUT.. is Uniregistry the right place to get your domain.. it's free for the first year, but check the renewal fee for the 2nd year. Depending on the type of domain - .com / .io / .us - it maybe cheaper to go elsewhere..
 

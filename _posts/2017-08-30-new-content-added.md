@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: "We have sub sites now to demonstrate various elements that can be useful on your grid site. From the menu top left, you can see we have now added ideas for forms, a store, and how to best add videos to your grid site. For the full list you can jump here \uD83D\uDC48"
-dateModified: '2017-09-02T21:55:52.035Z'
-datePublished: '2017-09-02T21:55:52.296Z'
+dateModified: '2017-09-07T11:58:31.528Z'
+datePublished: '2017-09-07T11:58:32.125Z'
 title: new content added
 author: []
 publisher: {}

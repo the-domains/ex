@@ -4,8 +4,8 @@ description: >-
   Normally we let Molly choose the font for our sites, and leave it at that..
   you can redesign a few times if you don’t like her choice, and she’ll come
   back with alternatives..
-dateModified: '2017-09-08T23:39:52.187Z'
-datePublished: '2017-09-08T23:39:52.624Z'
+dateModified: '2017-09-08T23:41:44.295Z'
+datePublished: '2017-09-08T23:41:45.014Z'
 title: typography..
 author: []
 publisher: {}

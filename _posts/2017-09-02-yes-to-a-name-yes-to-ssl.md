@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   When you create your new grid site, first you give it a name.. pick a site
   color.. and then you have the option to ‘purchase’ a custom domain name..
-dateModified: '2017-09-10T10:18:52.155Z'
-datePublished: '2017-09-10T10:18:52.984Z'
+dateModified: '2017-09-10T10:19:34.540Z'
+datePublished: '2017-09-10T10:19:35.146Z'
 title: yes to a name.. yes to ssl..
 author: []
 publisher: {}

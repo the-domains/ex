@@ -4,8 +4,8 @@ description: >-
   You’ve got 10 sites with LT Membership, so let’s use some. One idea we like is
   combining one off events to create a site, and then using Uniregistry to get
   your ‘free’ domain to help promote it.
-dateModified: '2017-09-10T10:18:52.155Z'
-datePublished: '2017-09-10T10:18:52.970Z'
+dateModified: '2017-09-10T10:19:34.540Z'
+datePublished: '2017-09-10T10:19:35.129Z'
 title: uniregistry and events ?
 author: []
 publisher: {}

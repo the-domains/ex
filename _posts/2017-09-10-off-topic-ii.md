@@ -5,8 +5,8 @@ description: >-
   tracked by Inkscape.. an open source, vector creation tool.. think Adobe
   Illustrator but on a budget.. We’ll release some flat icons soon.. but in the
   mean time gridbear had a makeover..
-dateModified: '2017-09-10T10:20:54.112Z'
-datePublished: '2017-09-10T10:20:54.533Z'
+dateModified: '2017-09-10T10:21:31.636Z'
+datePublished: '2017-09-10T10:21:31.766Z'
 title: off topic.. II
 author: []
 publisher: {}

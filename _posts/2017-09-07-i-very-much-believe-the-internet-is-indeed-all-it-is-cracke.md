@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   "I very much believe the Internet is indeed all it is cracked up to be." ~
   Jeff Bezos
-dateModified: '2017-09-08T23:41:44.295Z'
-datePublished: '2017-09-08T23:41:45.009Z'
+dateModified: '2017-09-10T10:18:52.155Z'
+datePublished: '2017-09-10T10:18:52.982Z'
 title: ''
 author: []
 publisher: {}

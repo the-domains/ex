@@ -4,8 +4,8 @@ description: >-
   Sooo.. umm last post we set up a custom domain name.. and then went all
   stitcher / nsa and added SSL to our domain.. S’rsly bad ass plan.. but wtf..
   we forgot about an email account for our new site…
-dateModified: '2017-09-10T10:20:54.112Z'
-datePublished: '2017-09-10T10:20:54.644Z'
+dateModified: '2017-10-03T14:29:29.274Z'
+datePublished: '2017-10-03T14:29:30.788Z'
 title: part deux.. wtf i don’t have an email account..
 author: []
 publisher: {}

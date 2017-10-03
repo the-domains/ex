@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-09-10T10:20:54.112Z'
-datePublished: '2017-09-10T10:20:54.631Z'
+dateModified: '2017-10-03T14:29:29.274Z'
+datePublished: '2017-10-03T14:29:30.787Z'
 title: jump to sections..
 author: []
 publisher: {}
@@ -23,6 +23,7 @@ _type: Blurb
 * [adding social elements][3]
 * [cheatin' with css (sorry.. not sorry! 🙃 )][4]
 * [adding a gallery or portfolio 📷][5]
+* [v3 of the grid][6]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ff70c34-7e24-4e6f-864f-a067f0ed6d40.jpg)
 
 [0]: http://forms.abc-xyz.us/
@@ -31,3 +32,4 @@ _type: Blurb
 [3]: http://social.abc-xyz.us/
 [4]: https://css.abc-xyz.us/
 [5]: https://gallery.abc-xyz.us/
+[6]: https://v3.abc-xyz.us/

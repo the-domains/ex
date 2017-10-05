@@ -4,8 +4,8 @@ description: >-
   As we get ready for the arrival of v3 of the grid, we’ve added a new section
   that will focus solely on this.. it can be found through the nav links, or
   directly here. Hope to see you all on v3 soon!
-dateModified: '2017-10-03T14:40:32.240Z'
-datePublished: '2017-10-03T14:40:32.432Z'
+dateModified: '2017-10-05T18:36:10.880Z'
+datePublished: '2017-10-05T18:36:11.043Z'
 title: new section.. v3
 author: []
 publisher: {}

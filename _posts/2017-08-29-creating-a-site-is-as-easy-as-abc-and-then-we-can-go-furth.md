@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: 'Creating your grid site may seem daunting at first, but believe us.. it’s not!'
-dateModified: '2017-10-03T14:40:32.240Z'
-datePublished: '2017-10-03T14:40:32.433Z'
+dateModified: '2017-10-05T18:36:10.880Z'
+datePublished: '2017-10-05T18:36:11.033Z'
 title: abc.. to xyz
 author: []
 publisher: {}
@@ -22,7 +22,7 @@ Creating your grid site may seem daunting at first, but believe us.. it's not!
 
 On this site, we're collating all the information that we have learnt from creating many, many grid sites.. below you'll find a simple video showing the very first stages of creating a site, but from there we can look at all other aspects.
 
-Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up.. check the nav bar top left for more sections...
+Adding forms, videos, stores.. whatever you are looking for on your site, we can help get it set up.. **check the nav bar top left for more sections...**
 
 ..keep checking back for more articles and tips.. thanks!
 

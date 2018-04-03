@@ -15,7 +15,7 @@ github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/69c3b18b-99c5-4132-bfaf-d7831345aedd.png
 name: abc.. to xyz
-url: 'http://abc-xyz.us'
+url: 'http://thegrid.ai/abcxyz'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'

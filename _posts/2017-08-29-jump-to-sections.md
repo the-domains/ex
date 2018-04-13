@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2017-10-03T14:29:29.274Z'
-datePublished: '2017-10-03T14:29:30.787Z'
+dateModified: '2018-04-13T07:48:01.827Z'
+datePublished: '2018-04-13T07:48:02.677Z'
 title: jump to sections..
 author: []
 publisher: {}
@@ -31,5 +31,5 @@ _type: Blurb
 [2]: http://store.abc-xyz.us/
 [3]: http://social.abc-xyz.us/
 [4]: https://css.abc-xyz.us/
-[5]: https://gallery.abc-xyz.us/
+[5]: http://thegrid.ai/galleryabc
 [6]: https://v3.abc-xyz.us/

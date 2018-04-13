@@ -1,8 +1,8 @@
 ---
 inFeed: false
 description: ''
-dateModified: '2018-04-13T07:49:13.282Z'
-datePublished: '2018-04-13T07:49:14.266Z'
+dateModified: '2018-04-13T07:50:08.359Z'
+datePublished: '2018-04-13T07:50:09.116Z'
 title: jump to sections..
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ _type: Blurb
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ff70c34-7e24-4e6f-864f-a067f0ed6d40.jpg)
 
 [0]: http://thegrid.ai/forms
-[1]: http://video.abc-xyz.us/
+[1]: http://thegrid.ai/video
 [2]: http://store.abc-xyz.us/
 [3]: http://social.abc-xyz.us/
 [4]: https://css.abc-xyz.us/

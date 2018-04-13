@@ -31,7 +31,7 @@ navigation:
     url: 'http://thegrid.ai/video'
     type: external
   - name: add a store
-    url: 'http://store.abc-xyz.us'
+    url: 'http://thegrid.ai/abcstore'
     type: external
   - name: more..
     id: 108e8747-58b3-425b-ae60-70443634ce6a

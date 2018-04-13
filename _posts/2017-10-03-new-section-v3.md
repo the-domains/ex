@@ -4,8 +4,8 @@ description: >-
   As we get ready for the arrival of v3 of the grid, we’ve added a new section
   that will focus solely on this.. it can be found through the nav links, or
   directly here. Hope to see you all on v3 soon!
-dateModified: '2017-10-05T18:36:10.880Z'
-datePublished: '2017-10-05T18:36:11.043Z'
+dateModified: '2018-04-13T08:15:38.540Z'
+datePublished: '2018-04-13T08:15:39.409Z'
 title: new section.. v3
 author: []
 publisher: {}
@@ -23,4 +23,4 @@ _type: Article
 
 As we get ready for the arrival of v3 of the grid, we've added a new section that will focus solely on this.. it can be found through the nav links, or directly [here][0]. Hope to see you all on v3 soon!
 
-[0]: https://v3.abc-xyz.us/
+[0]: http://thegrid.ai/V3abc

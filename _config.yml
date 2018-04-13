@@ -28,7 +28,7 @@ navigation:
     url: 'http://thegrid.ai/forms'
     type: external
   - name: adding video
-    url: 'http://video.abc-xyz.us'
+    url: 'http://thegrid.ai/video'
     type: external
   - name: add a store
     url: 'http://store.abc-xyz.us'
